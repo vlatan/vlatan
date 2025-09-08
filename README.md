@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - :raising_hand: I'm **Golang** and **Python** developer. I also dabble in **JS** a bit.
-- 🔭 Just for pure fun I'm currently working on my massive [Video Store](https://github.com/vlatan/video-store) project.
+- 🔭 Just for pure fun I'm currently working on my [Video Store](https://github.com/vlatan/video-store) web app.
 - 👯 Have a great (micro) SaaS idea? Let's collaborate.
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vlatan/).
+- 📫 You can reach me at https://factualdocs.com.
 
 <!--
 **vlatan/vlatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
