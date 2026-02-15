@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :raising_hand: I'm **Golang** and **Python** developer. I also dabble in **JS** a bit.
-- 🔭 Just for pure fun I'm currently working on my [Video Store](https://github.com/vlatan/video-store) web app. Live: https://factualdocs.com
+- 🔭 Just for pure fun I'm currently working on my [Video Store](https://github.com/vlatan/video-store) web app. Live at: [factualdocs.com](https://factualdocs.com/).
 - 👯 Have a great (micro) SaaS idea? Let's collaborate.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/vlatan/).
 
